@@ -19,3 +19,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+# 忽略node_modules文件和dbg目录
+node_modules
+mcdonalds
