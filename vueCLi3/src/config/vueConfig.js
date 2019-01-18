@@ -16,7 +16,7 @@ import regular from './regular.js'
 // 图标字体库
 
 // 引入全局组件
-
+import 'vue-sticky'
 // vue配置文件
 const options = {
   // 对象属性
