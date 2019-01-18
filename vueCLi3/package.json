@@ -28,6 +28,7 @@
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
     "vconsole-webpack-plugin": "^1.4.2",
+    "vue-sticky": "^3.3.4",
     "vue-template-compiler": "^2.5.21",
     "webpack-bundle-analyzer": "^3.0.3"
   }
