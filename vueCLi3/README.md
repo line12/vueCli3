@@ -24,6 +24,9 @@ npm run test
 ```
 npm run lint
 ```
+###  暂未加
+     验证器： validator
+     滑动： better-scroll
+     中英文切换：vue-i18n
+     时间控件：vuejs-datepicker
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
